@@ -1,0 +1,5 @@
+- y-HOLIDAY
+- student at University of Botswana
+- Computer Science undergraduate
+- Game Dev interest
+- that is all.
